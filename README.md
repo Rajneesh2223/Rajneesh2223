@@ -69,7 +69,6 @@ If you're looking for someone who can help build scalable and efficient web appl
 
 - **Front-end Development:** I can help design and develop modern, responsive, and interactive web interfaces using React.js, Next.js, HTML5, CSS3, and JavaScript.
 - **Back-end Development:** I have experience building robust backend systems with Node.js, Express.js, and MongoDB/MySQL.
-- **AI and Machine Learning:** I’m constantly learning and applying AI techniques to solve real-world problems.
 - **Open Source Contributions:** I’m passionate about open source and would love to contribute to your projects.
 - **Project Collaboration:** I’m always open to collaborating on exciting projects and learning new technologies.
 
