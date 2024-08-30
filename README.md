@@ -18,7 +18,8 @@
 
 📫 **How to Reach Me:**  
 - **Email:** rajneeshkumar@example.com
-- **LinkedIn:** [Rajneesh Kumar](https://www.linkedin.com/in/rajneeshkumar/)
+- **LinkedIn:** [Rajneesh Kumar](https://www.linkedin.com/in/rajneesh-kumar-740674211/![image](https://github.com/user-attachments/assets/434ecaa4-cf14-46c7-826f-523ef9606fcf)
+)
 - **GitHub:** [@Rajneesh2223](https://github.com/Rajneesh2223)
 
 😄 **Pronouns:** He/Him
