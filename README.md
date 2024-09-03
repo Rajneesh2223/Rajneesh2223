@@ -23,9 +23,6 @@
 - **GitHub:** [@Rajneesh2223](https://github.com/Rajneesh2223)
 
 😄 **Pronouns:** He/Him
-
-⚡ **Fun Fact:** I love munching on Chhola Kulcha and coding late into the night!
-
 ---
 
 ## 🚀 Skills and Technologies
