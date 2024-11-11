@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer from India, dedicated to crafting clean, e
 
 ### 🎯 Current Focus
 - 🔭 Working on: Building scalable web applications
-- 🌱 Learning: AWS Cloud Architecture & Machine Learning
+- 🌱 Learning: Hosting , FastApi 
 - 👯 Looking to collaborate on: Open source projects & innovative web solutions
 - 🤝 Open to: Mentoring and pair programming
 
