@@ -66,16 +66,6 @@ I'm a passionate Full Stack Developer from India, dedicated to crafting clean, e
   <img src="https://github-profile-trophy.vercel.app/?username=Rajneesh2223&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-## 🎨 My Recent Projects
-
-<div align="center">
-  <a href="https://github.com/Rajneesh2223/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajneesh2223&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Rajneesh2223/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajneesh2223&repo=project2&theme=tokyonight" />
-  </a>
-</div>
 
 ## 📫 Let's Connect!
 
